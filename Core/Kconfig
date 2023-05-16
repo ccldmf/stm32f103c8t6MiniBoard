@@ -1,0 +1,10 @@
+config BSP_MODULES_LED_ENABLED
+    bool "Enable BSP LED Modules"
+    help
+        Select this option to enable BSP LED Modules.
+
+config BSP_MODULES_KEY_ENABLED
+    bool "Enable BSP KEY Modules"
+    help
+        Select this option to enable BSP KEY Modules.
+

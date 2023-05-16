@@ -1,0 +1,6 @@
+mainmenu "STMicroelectronics CMake Project Configuration"
+
+# BSP Modules configuration
+menu "BSP Modules"
+    osource "${PROJECT_PATH}/Core/Kconfig"
+endmenu
